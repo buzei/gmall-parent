@@ -9,7 +9,8 @@
         <module>model</module>
         <module>server-gateway</module>
         <module>common</module>
-<!--        <module>common-util</module>-->
+        <module>service-item</module>
+        <!--        <module>common-util</module>-->
 <!--        <module>service-util</module>-->
     </modules>
 

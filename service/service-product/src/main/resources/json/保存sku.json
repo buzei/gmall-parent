@@ -1,0 +1,59 @@
+{
+  "id": null,
+  "spuId": 28,
+  "price": "9999",
+  "skuName": "哇哇哇哇",
+  "weight": "9",
+  "skuDesc": "66666666",
+  "category3Id": 61,
+  "skuAttrValueList": [
+    {
+      "attrId": "1",
+      "valueId": "3"
+    },
+    {
+      "attrId": "2",
+      "valueId": "12"
+    },
+    {
+      "attrId": "3",
+      "valueId": "17"
+    },
+    {
+      "attrId": "4",
+      "valueId": "26"
+    },
+    {
+      "attrId": "5",
+      "valueId": "34"
+    },
+    {
+      "attrId": "13",
+      "valueId": "64"
+    }
+  ],
+  "skuSaleAttrValueList": [
+    {
+      "saleAttrValueId": "118",
+      "saleAttrValueName": "黄色",
+      "baseSaleAttrId": "1",
+      "saleAttrName": "选择颜色"
+    },
+    {
+      "saleAttrValueId": "119",
+      "saleAttrValueName": "9.9.9",
+      "baseSaleAttrId": "2",
+      "saleAttrName": "选择版本"
+    }
+  ],
+  "skuImageList": [
+    {
+      "spuImgId": 279,
+      "imgName": "wangwang.jpg",
+      "imgUrl": "http://192.168.200.100:9000/gmall/2684b65e32b547d3ab3b4bc317f40aa1_wangwang.jpg",
+      "isDefault": 1
+    }
+  ],
+  "skuDefaultImg": "http://192.168.200.100:9000/gmall/2684b65e32b547d3ab3b4bc317f40aa1_wangwang.jpg",
+  "tmId": 13
+}

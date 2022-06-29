@@ -20,3 +20,9 @@ spring:
             - Path=/admin/product/**
 
 
+        - id: front_route
+          uri: lb://web-front
+          predicates:
+            - Host=**.gmall.com
+
+

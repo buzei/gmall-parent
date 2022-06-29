@@ -1,0 +1,35 @@
+{
+  "id": null,
+  "spuName": "旺旺",
+  "description": "牛逼克拉斯",
+  "category3Id": 61,
+  "spuImageList": [
+    {
+      "imgName": "wangwang.jpg",
+      "imgUrl": "http://192.168.200.100:9000/gmall/2684b65e32b547d3ab3b4bc317f40aa1_wangwang.jpg"
+    }
+  ],
+  "spuSaleAttrList": [
+    {
+      "baseSaleAttrId": "1",
+      "saleAttrName": "选择颜色",
+      "spuSaleAttrValueList": [
+        {
+          "baseSaleAttrId": "1",
+          "saleAttrValueName": "黄色"
+        }
+      ]
+    },
+    {
+      "baseSaleAttrId": "2",
+      "saleAttrName": "选择版本",
+      "spuSaleAttrValueList": [
+        {
+          "baseSaleAttrId": "2",
+          "saleAttrValueName": "9.9.9"
+        }
+      ]
+    }
+  ],
+  "tmId": 13
+}
